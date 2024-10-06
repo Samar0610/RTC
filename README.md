@@ -13,3 +13,5 @@ Hall: Seven segment
  
 Mcal: DIO 
       Timer
+
+Linked in : https://www.linkedin.com/posts/samar-mohamed-61554427a_my-last-project-with-atmega32a-rtc-real-activity-7167856078964178945-y13r?utm_source=share&utm_medium=member_desktop
